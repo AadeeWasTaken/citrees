@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import databaseData from "../database/data.json";
 import type { Data, Location } from "../types/data";
 
@@ -7,14 +8,16 @@ export default function Home({ locations }: { locations: Location[] }) {
         <>
             {locations.map((location) => (
                 <>
-                    <Image
-                        src={location.image}
-                        alt={`${location.location} Map`}
-                        width={50}
-                        height={50}
-                    />
-                    <h3 key={location.id}>{location.location}</h3>
-                    <p>Interested: {location.interested}</p>
+                    <Link href={`/location/${location.id}`}>
+                        <Image
+                            src={location.image}
+                            alt={`${location.location} Map`}
+                            width={50}
+                            height={50}
+                        />
+                        <h3 key={location.id}>{location.location}</h3>
+                        <p>Interested: {location.interested}</p>
+                    </Link>
                 </>
             ))}
         </>
