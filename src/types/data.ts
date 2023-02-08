@@ -1,4 +1,5 @@
 export type Data = {
+    id: number;
     city: string;
     state: string;
     image: string;
@@ -9,6 +10,7 @@ export type Data = {
 }
 
 export type Location = {
+    id: number;
     location: string;
     image: string;
     interested: number;
