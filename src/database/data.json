@@ -1,0 +1,50 @@
+[
+    {
+        "city": "Centerfield",
+        "state": "Utah",
+        "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Centerfield_dcvmlq.png",
+        "soil": "Mollisols",
+        "temprature": 15,
+        "tree": "Western Sycamore"
+    },
+    {
+        "city": "Clalckmas",
+        "state": "Oregon",
+        "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Clackmas_baju37.png",
+        "soil": "Jory",
+        "temprature": 13,
+        "tree": "Fremont Cottonwood"
+    },
+    {
+        "city": "Winston",
+        "state": "Oregon",
+        "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Winston_ebsmsw.png",
+        "soil": "Sandy",
+        "temprature": 12,
+        "tree": "Pacific Dogwood"
+    },
+    {
+        "city": "Grant Pass",
+        "state": "Oregon",
+        "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Grant_Pass_kozgn0.png",
+        "soil": "Sleeping  Sloping",
+        "temprature": 14,
+        "tree": "Black Walnut"
+    },
+    {
+        "city": "Orleans",
+        "state": "California",
+        "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821488/Cyber%20Cypher/CiTrees/Orleans_rod9q4.png",
+        "soil": "Fertile Sandy Loams",
+        "temprature": 15,
+        "tree": "Crimson Sage"
+    },
+    {
+        "city": "Hoopa",
+        "state": "California",
+        "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821487/Cyber%20Cypher/CiTrees/Hoopa_ai3qgk.png",
+        "soil": "Fertile Sandy Loams",
+        "temprature": 14,
+        "tree": "Western Redbud"
+    }
+]
