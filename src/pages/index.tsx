@@ -7,7 +7,12 @@ export default function Home({ locations }: { locations: Location[] }) {
         <>
             {locations.map((location) => (
                 <>
-                    <Image src={location.image} alt={`${location.location} Map`} width={50} height={50}/>
+                    <Image
+                        src={location.image}
+                        alt={`${location.location} Map`}
+                        width={50}
+                        height={50}
+                    />
                     <h3 key={location.id}>{location.location}</h3>
                     <p>Interested: {location.interested}</p>
                 </>
