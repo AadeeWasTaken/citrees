@@ -5,10 +5,11 @@ export type Data = {
     soil: string;
     temprature: number;
     tree: string;
+    interested: number;
 }
 
 export type Location = {
-    city: string;
-    state: string;
+    location: string;
     image: string;
+    interested: number;
 }

@@ -5,7 +5,8 @@
         "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Centerfield_dcvmlq.png",
         "soil": "Mollisols",
         "temprature": 15,
-        "tree": "Western Sycamore"
+        "tree": "Western Sycamore",
+        "interested": 2543
     },
     {
         "city": "Clalckmas",
@@ -13,7 +14,8 @@
         "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Clackmas_baju37.png",
         "soil": "Jory",
         "temprature": 13,
-        "tree": "Fremont Cottonwood"
+        "tree": "Fremont Cottonwood",
+        "interested": 2145
     },
     {
         "city": "Winston",
@@ -21,7 +23,8 @@
         "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Winston_ebsmsw.png",
         "soil": "Sandy",
         "temprature": 12,
-        "tree": "Pacific Dogwood"
+        "tree": "Pacific Dogwood",
+        "interested": 3214
     },
     {
         "city": "Grant Pass",
@@ -29,7 +32,8 @@
         "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821486/Cyber%20Cypher/CiTrees/Grant_Pass_kozgn0.png",
         "soil": "Sleeping  Sloping",
         "temprature": 14,
-        "tree": "Black Walnut"
+        "tree": "Black Walnut",
+        "interested": 6542
     },
     {
         "city": "Orleans",
@@ -37,7 +41,8 @@
         "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821488/Cyber%20Cypher/CiTrees/Orleans_rod9q4.png",
         "soil": "Fertile Sandy Loams",
         "temprature": 15,
-        "tree": "Crimson Sage"
+        "tree": "Crimson Sage",
+        "interested": 3872
     },
     {
         "city": "Hoopa",
@@ -45,6 +50,7 @@
         "image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1675821487/Cyber%20Cypher/CiTrees/Hoopa_ai3qgk.png",
         "soil": "Fertile Sandy Loams",
         "temprature": 14,
-        "tree": "Western Redbud"
+        "tree": "Western Redbud",
+        "interested": 2643
     }
 ]
