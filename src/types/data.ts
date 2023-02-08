@@ -1,17 +1,28 @@
 export type Data = {
-    id: number;
+    id: string;
     city: string;
     state: string;
     image: string;
     soil: string;
-    temprature: number;
+    temperature: number;
+    wind: number;
     tree: string;
     interested: number;
 }
 
 export type Location = {
-    id: number;
+    id: string;
     location: string;
     image: string;
+    interested: number;
+}
+
+export type FullLocation = {
+    location: string;
+    image: string;
+    soil: string;
+    temperature: number;
+    wind: number;
+    tree: string;
     interested: number;
 }
